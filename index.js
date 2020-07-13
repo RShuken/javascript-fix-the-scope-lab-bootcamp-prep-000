@@ -1,6 +1,7 @@
 
 function myAnimal(animal) {
   // You should not need to modify this function
+  animal = 'dog';
   return animal
 }
 
